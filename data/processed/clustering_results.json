@@ -1,0 +1,23 @@
+{
+    "Mid-Tier Entire Homes": {
+        "count": 2309,
+        "mean_price": 313.14097444781294,
+        "mean_accommodates": 2.808575140753573,
+        "mean_occupancy_rate": 0.22701650064963189,
+        "mean_estimated_revenue": 22608.143776526635
+    },
+    "Budget Segment": {
+        "count": 2526,
+        "mean_price": 251.03852335708632,
+        "mean_accommodates": 2.2889944576405385,
+        "mean_occupancy_rate": 0.8038235550277119,
+        "mean_estimated_revenue": 73341.88456848772
+    },
+    "Premium / Commercial Listings": {
+        "count": 1542,
+        "mean_price": 553.3347859922179,
+        "mean_accommodates": 4.432555123216602,
+        "mean_occupancy_rate": 0.7971592088197146,
+        "mean_estimated_revenue": 146098.33990272373
+    }
+}
