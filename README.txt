@@ -20,7 +20,6 @@ The pipeline automates:
 - Relational Star Schema compilation within a local DuckDB OLAP database.
 - Hypothesis testing (Welch's t-test) and regression driver models (OLS).
 - Supervised price estimation (XGBoost) and property clustering (K-Means).
-- Programmatic IEEE-formatted Word Document compilation.
 - Interactive dashboard visualization (Streamlit).
 
 
@@ -43,7 +42,7 @@ airbnb/
 ├── eda.py                        <-- Generates distribution & seasonal plots
 ├── stats.py                      <-- Performs Welch's t-test, OLS, and VIF checks
 ├── ml.py                         <-- Trains XGBoost model & segments listings
-├── report.pdf					   <-- Compiles IEEE report 
+├── report.pdf					          <-- Final Report 
 └── README.txt                    <-- Project documentation 
 
 
